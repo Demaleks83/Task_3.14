@@ -1,4 +1,6 @@
-### What is GIT
+[< вернуться на главную](./readme.md)
+
+### Что такое GIT
 
 **GIT** is the most popular version control system in the world today. This system was created by *Linus Torvalds in 2005*.
 

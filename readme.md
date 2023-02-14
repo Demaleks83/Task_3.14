@@ -1,6 +1,6 @@
 # Инструкция по работе с GIT
 
-LICENSE: **Massachusetts Institute of Technology [MIT](./license.md)**
+LICENSE: **[MIT](./license.md)**
 
 ![git-logo](./assets/Git-logo-orange.svg)
 
@@ -10,7 +10,7 @@ LICENSE: **Massachusetts Institute of Technology [MIT](./license.md)**
 
  [What is GIT](./description.md)
 
- ***Basic git commands***
+ ***Основные команды GIT***
 
    ---
 
@@ -19,7 +19,7 @@ LICENSE: **Massachusetts Institute of Technology [MIT](./license.md)**
 3. [git add](./add.md)
 4. [git commit](./git_commit.md)
 
-***Working with a remote repository***
+***Работа с удалённым репозиторием***
 
 ---
 
@@ -29,7 +29,7 @@ LICENSE: **Massachusetts Institute of Technology [MIT](./license.md)**
 4. [git pull](./git_pull.md)
 5. [git push](./git_push.md)
 
-***Getting data about the state of the repository***
+***Получение данных о состоянии репозитория***
 
 ---
 
@@ -37,7 +37,7 @@ LICENSE: **Massachusetts Institute of Technology [MIT](./license.md)**
 2. [git log](./git_log.md)
 3. [git show](./git_show.md)
 
-***Some other commands***
+***Некоторые другие команды***
 
 ---
 
