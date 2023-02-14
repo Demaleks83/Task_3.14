@@ -2,7 +2,7 @@
 
 LICENSE: **Massachusetts Institute of Technology [MIT](./license.md)**
 
-![git-logo](./assets\Git-logo-orange.svg)
+![git-logo](./assets/Git-logo-orange.svg)
 
 ---
 
