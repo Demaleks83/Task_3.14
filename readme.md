@@ -8,7 +8,7 @@ LICENSE: **[MIT](./license.md)**
 
 ## **Содержание:**
 
-[What is GIT](./description.md)
+ [What is GIT](./description.md)
 
 [Registering with git](./reg.md)
 
@@ -45,6 +45,10 @@ LICENSE: **[MIT](./license.md)**
 
 1. [git clone](./git_clone.md)
 2. [git rebase](./git_rebase.md)
+
+---
+
+[More](./more.md)
 
 ---
 
