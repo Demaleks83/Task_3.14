@@ -8,7 +8,9 @@ LICENSE: **[MIT](./license.md)**
 
 ## **Содержание:**
 
- [What is GIT](./description.md)
+[What is GIT](./description.md)
+
+[Registering with git](./reg.md)
 
  ***Основные команды GIT***
 

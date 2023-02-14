@@ -2,8 +2,8 @@
 
 ### Что такое GIT
 
-**GIT** is the most popular version control system in the world today. This system was created by *Linus Torvalds in 2005*.
+**GIT** — самая популярная система контроля версий в мире на сегодняшний день. Эта система была создана *Линусом Торвальдсом в 2005 году*.
 
- Many open source and commercial projects use Git for version control. Git is actively maintained as an open source project.
+  Многие проекты с открытым исходным кодом и коммерческие проекты используют Git для контроля версий. Git активно поддерживается как проект с открытым исходным кодом.
 
-This software makes it much easier to work with changing information and allows you to store multiple versions of the same document.
+Это программное обеспечение значительно упрощает работу с изменяющейся информацией и позволяет хранить несколько версий одного и того же документа.
